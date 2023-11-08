@@ -1,4 +1,4 @@
-use debug::PrintTrait;
+
 #[starknet::contract]
 mod HelloCairoCounter {
     #[storage]
